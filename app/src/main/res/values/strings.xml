@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smartvote</string>
+    <string name="นาที">นาที</string>
+    <string name="สำนักงานคณะกรรมการการเลือกตั้ง" translatable="false">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="นับถอยหลังวันเลือกตั้ง">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="ถัดไป">ถัดไป</string>
+    <string name="วัน">วัน</string>
+    <string name="ชั่วโมง">ชั่วโมง</string>
+    <string name="วินาที">วินาที</string>
+</resources>
